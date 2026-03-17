@@ -5,8 +5,9 @@
      Keep this file under ~150 lines — Claude loads it every session.
      See the guide at https://hugosantanna.github.io/clo-author/ for full documentation. -->
 
-**Project:** [YOUR PROJECT NAME]
-**Institution:** [YOUR INSTITUTION]
+**Project:** Global Value Chain
+**Author:** Dingyi Xu
+**Institution:** Shanghai University of International Business and Economics
 **Branch:** main
 
 ---
