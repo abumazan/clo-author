@@ -42,7 +42,11 @@
       "Bash(for *)",
       "Bash(gs *)",
       "Bash(pdftk *)",
-      "Bash(mkdir *)"
+      "Bash(mkdir *)",
+      "Bash(python \"c:/Users/xudin/OneDrive/IO course/current information/generate_analysis.py\")",
+      "Bash(find 'c:\\\\Users\\\\xudin\\\\OneDrive\\\\IO course' -type f \\\\\\(-iname *product*quality* -o -iname *quality*edit* \\\\\\))",
+      "Bash(grep -l \"truncat\\\\|power.*mean\\\\|lognormal\" \"c:\\\\Users\\\\xudin\\\\OneDrive\\\\IO course\\\\supplement\"/*.m)",
+      "Bash(find 'c:\\\\Users\\\\xudin\\\\OneDrive\\\\IO course\\\\clo-author' -name *.m -o -name *.pdf)"
     ]
   },
   "hooks": {
